@@ -27,29 +27,6 @@
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/Josssiiiah/JosiahBase">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">project_title</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/Josssiiiah/JosiahBase"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Josssiiiah/JosiahBase">View Demo</a>
-    ·
-    <a href="https://github.com/Josssiiiah/JosiahBase/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Josssiiiah/JosiahBase/issues">Request Feature</a>
-  </p>
-</div>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -83,9 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Josssiiiah`, `JosiahBase`, `twitter_handle`, `linkedin_username`, `email_client`, `griggsjo@stanford.edu`, `project_title`, `project_description`
+This is JosiahBase, a CoinBase clone built with Next.js and React.js
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
