@@ -107,7 +107,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 JosiahGriggs - griggsjo@stanford.edu
 
-Project Link: [https://github.com/Josssiiiah/JosiahBase](https://github.com/Josssiiiah/JosiahBase)
+Project Link: [https://josiah-base.vercel.app/](https://josiah-base.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
