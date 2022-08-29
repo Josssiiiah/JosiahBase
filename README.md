@@ -23,7 +23,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url/josiahgriggs]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -137,7 +137,7 @@ Project Link: [https://josiah-base.vercel.app/](https://josiah-base.vercel.app/)
 [license-shield]: https://img.shields.io/github/license/Josssiiiah/JosiahBase.svg?style=for-the-badge
 [license-url]: https://github.com/Josssiiiah/JosiahBase/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/josiahgriggs/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
