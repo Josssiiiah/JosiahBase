@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is JosiahBase, a CoinBase clone built with Next.js and React.js
+This is JosiahBase, a CoinBase clone built with Next.js, React.js, and the CoinGecko API. I built this project using Youtube tutorials to find out what API's are and to learn how to use them in web applications. This project features dynamically rendered components, dark/light mode, protected routes, Firebase authentication, and a saved coins feature. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,7 +116,7 @@ Project Link: [https://github.com/Josssiiiah/JosiahBase](https://github.com/Joss
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
+* []() Clint Bailey -> https://www.youtube.com/channel/UCmT9TwcIb_yAe7-Uqhn3fBA
 * []()
 * []()
 
